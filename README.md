@@ -6,4 +6,4 @@
 01_Inbox:灵感碎片
 02_BAU:行为与情绪分析部门
 03_Life_and_Interests:精神后花园
-04_Future_Blueprint:人生蓝图
+04_Future_Blueprint:人生蓝图gi
